@@ -1,0 +1,28 @@
+{
+  "name": "formula-date",
+  "version": "1.0.1",
+  "description": "Convert year, month and day into a serial number",
+  "main": "DATE.js",
+  "scripts": {
+    "test": "mocha test",
+    "build": "babel DATE.es6 -m umd --out-file DATE.js"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/date.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Spreadsheet",
+    "FormulaPages"
+  ],
+  "bugs": {
+    "url": "https://github.com/FormulaPages/date/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/date#readme",
+  "dependencies": {
+    "formula-serial": "^1.0.2"
+  }
+}
