@@ -2,7 +2,7 @@
 
 ![CircleCI](https://circleci.com/gh/FormulaPages/date.svg?style=shield&circle-token=:circle-token)
 
-Calculate loan payment
+Calculate serial number with year, month and day.
 
 ## Syntax
 
