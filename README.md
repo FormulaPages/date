@@ -22,4 +22,3 @@ npm install --save formula-date
 var date = require('formula-date');
 date( 2015, 10, 6 )
 ```
-# date
