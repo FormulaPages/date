@@ -4,8 +4,7 @@
   "description": "Convert year, month and day into a serial number",
   "main": "DATE.js",
   "scripts": {
-    "test": "mocha test",
-    "build": "babel DATE.es6 -m umd --out-file DATE.js"
+    "test": "mocha test"
   },
   "author": "Peter Moresi",
   "license": "MIT",
